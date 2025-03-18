@@ -1,0 +1,2396 @@
+food,Protein
+cream cheese,0.9
+neufchatel cheese,7.8
+requeijao cremoso light catupiry,0.8
+ricotta cheese,1.5
+cream cheese low fat,1.2
+cream cheese fat free,2.8
+gruyere cheese,8.3
+cheddar cheese,6.4
+parmesan cheese,6.4
+romano cheese,1.6
+parmesan cheese grated,1.4
+port salut cheese,31.4
+swiss cheese,6.7
+goat cheese hard,8.6
+gouda cheese,7
+pepper jack cheese lucerne,5
+caraway cheese,7.1
+gjetost cheese,21.9
+tilsit cheese,9.8
+goat cheese,6.1
+brick cheese,7
+asadero cheese,25.5
+camembert cheese,5.9
+provolone cheese reduced fat,27.9
+roquefort cheese,18.3
+queso blanco cheese,24
+queso seco cheese,23.8
+goat cheese soft,5.2
+mozzarella cheese,6.7
+chihuahua cheese,28.5
+limburger cheese,6
+muenster cheese,30.9
+queso fresco cheese,22.1
+brie cheese,6.2
+pimento cheese,31
+mexican cheese,27.7
+feta cheese,4.3
+mozzarella cheese fat free,35.8
+provolone cheese,33.8
+anejo cheese,28.3
+honey,0.08
+apple butter,0.045
+fruit jam,0
+chocolate hazelnut spread,1
+peanut butter,3.3
+peanut spread,3.8
+chicken spread,10.1
+cheese spread,17
+tahini,2.7
+orange marmalade,0.014
+american cheese spread,2.6
+apricot jam,0.1
+chunky peanut butter,3.8
+ham and cheese spread,2.4
+chicken and rice casserole homade,2
+picnic loaf,4.2
+corn tamale,5.8
+baked potato with cheese sauce bacon,18.4
+chinese egg roll,7.4
+butter croissant,4.7
+enchilada with cheese beef,11.9
+corned beef hash with potatoes,20.6
+biscuit with egg cheese bacon,17.4
+bagel with ham egg cheese,26.7
+quesadilla with chicken,27.1
+corn rice,1.8
+kung pao chicken,59
+beef empanada,10.1
+frijoles with cheese,11.4
+burrito with beef,9.1
+crispy chicken sandwich,14.8
+enchilada with cheese,15.4
+pork egg roll,8.4
+corn on the cob with butter,4.5
+pancakes with butter syrup,4.1
+burrito with beans,7
+scrambled eggs,6.5
+baked potato with sour cream,6.7
+turkey and gravy,14.1
+chicken egg roll,8.4
+vegetable egg roll,5.2
+ham cheese roll,3.8
+biscuit with ham,13.4
+lemon chicken,68.6
+hummus,12
+croissant with egg cheese,12.8
+enchirito with cheese beef beans,17.9
+sweet sour pork,1.2
+crab cake,11.3
+egg dinner roll,3.3
+english muffin with egg cheese sausage,22.1
+buttermilk pancakes,2.6
+omelet,6.4
+taco with chicken cheese lettuce,13
+spinach souffle,10.7
+english muffin with cheese sausage,14.3
+potato gratin,12.4
+biscuit with egg,17.4
+french fries deep fried,2.4
+sweet sour chicken,1.8
+burrito with beans beef,27.8
+nachos with cinnamon sugar,7.2
+arroz con grandules,4
+chili con carne,14.7
+arroz con abichuelas,6.2
+biscuit with sausage,10.7
+vegetarian stew,42
+chicken sandwich with cheese,29.4
+biscuit with egg steak,17.9
+taco salad,10
+succotash,9.7
+nachos with cheese jalapeno peppers,16.8
+biscuit with egg ham,20.4
+ladyfingers,3
+mozzarella steak fried,4.6
+tamale navajo,11.7
+blueberry pancakes,2.3
+chimichanga with beef cheese,20.1
+egg cheese sandwich,15.6
+biscuit with egg bacon,17
+pupusas con queso,13.7
+apple croissant,4.2
+refried red beans,11.7
+tostada with guacamole,6.2
+chicken sandwich,30.4
+fried rice,6.5
+pupusas del cerdo,14
+turkey pot pie,25.8
+cheese croissant,7.4
+chimichanga with beef,19.6
+french toast with butter,5.2
+ham egg cheese sandwich,19.2
+english muffin with butter,4.9
+savoury noodle one pan dinner tandaco,0
+ham cheese sandwich,20.7
+sweet gefilte fish,3.8
+poached egg,6.3
+tostada with beef cheese,19
+tostada with beans cheese,9.6
+pork tamale,10.4
+nachos with cheese,3.5
+pulled pork in barbecue sauce,32.8
+baked potato with cheese sauce,14.6
+baked beans,11.1
+arroz con frijoles,6.8
+taco with beef cheese lettuce,6.1
+burrito with beans cheese beef,7.3
+egg mix,2.4
+falafel,2.3
+taco salad with chili con carne,11.6
+wonton wrappers,3.1
+hushpuppies,11.7
+chicken pot pie,14.6
+general tsos chicken,69
+burrito with beans cheese,13.6
+vegetarian fillets,19.6
+biscuit with egg sausage,18
+chicken chow mein,40.8
+fruit burrito,2.5
+arroz con leche,8.1
+caramel custard flan,13.9
+gelatin dessert,3.3
+chocolate milk dessert,5.9
+chocolate mousse,6.2
+dulce de leche,1.3
+apple crisp,4.9
+spinach spaghetti cooked,6.4
+corn pasta cooked,3.7
+spaghetti with meat sauce,14.3
+pasta with meatballs in tomato sauce,10.6
+cheese tortellini,14.6
+pasta with sliced franks in tomato sauce,11
+lasagna,9
+macaroni cheese,12.6
+vegetable lasagna,15.6
+spinach egg noodles cooked,8.1
+cheese lasagna,15.9
+pasta with tomato sauce,5.6
+spinach pasta cooked,1.4
+vegetable chicken soup,12.3
+bean ham soup,10.3
+cream of chicken soup,6
+tomato soup canned,6.3
+egg drop soup,2.8
+scotch broth,12.1
+cream of onion soup,6.7
+chicken broth dry,0.7
+vegetable soup with beef broth,6
+chili with beans canned,14.6
+beef noodle soup,9.6
+consomme dry,2.2
+chicken mushroom soup,2
+beef vegetable soup,8
+black bean soup,12.4
+split pea soup with ham bacon,11.6
+cream of mushroom soup,3.4
+green pea soup,16.7
+chicken broth soup,11.1
+chicken mushroom chowder soup,16.2
+chicken dumplings soup,13.6
+chicken vegetable soup,7.1
+turkey vegetable soup,3.1
+wonton soup,4.6
+beef stock,4.7
+mushroom barley soup,4.6
+gazpacho soup,10.7
+beef mushroom soup,14
+chicken rice soup,12.3
+pepperpot soup,6.2
+vegetable soup,4.3
+chili beef soup,13.4
+chicken soup,12.4
+bean with frankfurters soup,10
+pea soup,8.3
+turkey soup,10.2
+stockpot soup,9.8
+hot sour soup,6
+cheese soup,2
+cream of potato soup,3.8
+bean with bacon soup,5.5
+fish stock,5.3
+split pea soup with ham,20.7
+beef broth soup,2.7
+lentil soup with ham,9.3
+tomato soup,2.2
+fish broth,4.9
+chili without beans canned,18.1
+minestrone soup,8.6
+clam chowder soup,4.4
+tomato vegetable soup,1.9
+cream of rice coup,2.2
+cream of celery soup,3.3
+chicken gravy,4.6
+tomato rice soup,4.2
+vegetable beef soup,18.1
+tomato beef noodle soup,8.9
+oyster stew soup,4.2
+ramen noodle soup dry,8.9
+chicken noodle soup,7.2
+chicken bouillon dry,0.7
+cream of asparagus soup,4.6
+turkey noodle soup,7.8
+cream of shrimp soup,5.6
+bean with pork soup,15.3
+chicken broth,1
+beef broth powder,0.6
+split pea soup,9.7
+escarole soup,3.4
+chicken stock,6
+tomato bisque soup,4.5
+shark fin soup,6.9
+onion soup,7.5
+chicken gumbo soup,5.3
+crab soup,10.4
+tripe soup,17.2
+little india little lunch,0
+original chicken sandwich chick fil a,0
+sausage mcmuffin mcdonalds,14.6
+sausage mcgriddles mcdonalds,11.4
+crispy chicken drumstick kentucky fried chicken,10.6
+chicken crispy drumsticks kentucky fried chicken,11.8
+biscuit kentucky fried chicken,3.8
+english muffin mcdonalds,5.7
+french fries mcdonalds,4
+hotdog,16.4
+french fries burger king,2.4
+original taco with beef cheese lettuce taco bell,6.1
+hotdog with chili,13.5
+chicken crispy wings kentucky fried chicken,9.2
+egg white delight mcdonalds,0
+french toast sticks burger king,1.3
+mcchicken mcdonalds,13.7
+nachos supreme taco bell,14.8
+crispy chicken wing kentucky fried chicken,12.6
+chicken strips burger king,6.6
+crispy chicken breast kentucky fried chicken,38.2
+sausage biscuit mcdonalds,11.3
+sausage burrito mcdonalds,13
+onion rings fried,0.3
+onion rings burger king,3.5
+turkey patty fried,3.9
+hotcakes with syrup mcdonalds,9
+crispy chicken thigh kentucky fried chicken,20.4
+corn dog,6.7
+chicken box mcdonalds,0.2
+potato wedges kentucky fried chicken,5.4
+scrambled eggs mcdonalds,7.7
+egg mcmuffin mcdonalds,17.2
+nachos taco bell,5.1
+biscuit large mcdonalds,5.5
+crispy chicken strips kentucky fried chicken,9.5
+hotcakes mcdonalds,3
+chicken crispy breast kentucky fried chicken,29.7
+hotcakes sausage mcdonalds,15.5
+chicken mcnuggets mcdonalds,2.5
+chips chipotle,0.2
+biscuit mcdonalds,4.7
+rice bowl with chicken,1.6
+spaghetti with meatballs,8.7
+meat ravioli canned,8.9
+cheese ravioli canned,6
+premium crispy chicken ranch blt sandwich mcdonalds,35.3
+steak sandwich,30.3
+cheeseburger burger king,19.4
+cheeseburger mcdonalds,15.4
+double cheeseburger,37
+double hamburger,52.1
+premium grilled chicken classic sandwich mcdonalds,28.3
+big n tasty with cheese mcdonalds,27.2
+premium grilled chicken club sandwich mcdonalds,38.3
+quarter pounder mcdonalds,24.1
+premium crispy chicken classic sandwich mcdonalds,27.8
+veggie burger,11
+quarter pounder with cheese mcdonalds,29
+beef sandwich steak raw,9.2
+cheeseburger,15
+premium grilled chicken ranch blt sandwich mcdonalds,33.7
+double whopper with cheese burger king,57.7
+big mac mcdonalds,25.9
+sandwich with cold cuts,41.1
+filet o fish mcdonalds,15.1
+hand breaded chicken tenders carls jr,0
+grilled chicken sandwich wendys,0
+sandwich with roast beef,28.6
+hamburger burger king,14.7
+big n tasty mcdonalds,24.7
+roast beef sandwich,22.6
+roast beef sandwich with cheese,32.2
+hamburger,12.9
+premium fish sandwich burger king,22.6
+whopper burger king,35.4
+sandwich with tuna salad,29.7
+original chicken sandwich burger king,24.2
+double whopper burger king,52.1
+premium crispy chicken club sandwich mcdonalds,39.1
+hamburger mcdonalds,12.3
+pepperoni pizza dominos,12.7
+sausage pizza,13.3
+pepperoni pizza,13
+pepperoni pizza pizza hut,12.3
+cheese pizza pizza hut,11.5
+cheese pizza,12.2
+cheese pizza dominos,11.7
+meat vegetable pizza,15
+sucker raw,26.6
+northern pike raw,76.3
+haddock cooked,30
+burbot cooked,22.3
+pollock cooked,75.3
+rainbow smelt raw,5
+whitefish cooked,37.7
+walleye pike raw,30.4
+carp cooked,38.9
+wolffish cooked,53.4
+snapper cooked,44.7
+roe cooked,8.1
+anchovy raw,5.8
+herring raw,33
+cod raw,41.1
+tilapia raw,23.3
+whiting cooked,16.9
+skipjack tuna cooked,86.9
+salmon cooked,78.7
+chum salmon cooked,79.5
+american shad cooked,31.3
+shark cooked,5.3
+trout cooked,16.5
+swordfish raw,26.7
+rainbow trout cooked,16.9
+fish sandwich with cheese,15.1
+jellyfish dried,3.2
+mullet raw,23
+halibut cooked,71.7
+lingcod raw,44.2
+orange roughy cooked,6.4
+cisco raw,15
+florida pompano cooked,20.8
+snapper raw,44.7
+fish sandwich,22.6
+haddock raw,31.5
+ocean perch raw,9.8
+cuttlefish cooked,9.2
+cod cooked,41.1
+seatrout raw,39.8
+flounder raw,20.2
+spot cooked,11.9
+walleye pike cooked,30.4
+perch raw,11.6
+pumpkin seed sunfish raw,9.3
+salt mackerel,25.2
+mackerel cooked,21
+tilapia cooked,22.8
+drum raw,34.7
+atlantic croaker fried,15.8
+pumpkin seed sunfish cooked,9.2
+wolffish raw,53.6
+bluefin tuna cooked,44.9
+scup cooked,12.1
+herring cooked,32.9
+bluefish raw,30.1
+sheepshead cooked,48.4
+bass cooked,15
+pout cooked,58.4
+chinook salmon raw,78.9
+rockfish raw,35.1
+tilefish raw,67.6
+scup raw,31.3
+sablefish cooked,51.9
+tuna salad,32.9
+coho salmon cooked,34.7
+roe raw,3.1
+sea bass raw,23.8
+pink salmon cooked,56
+sockeye salmon cooked,82.1
+whitefish raw,37.8
+greenland halibut cooked,58.6
+northern pike cooked,76.5
+salmon raw,80.9
+turbot cooked,65.4
+surimi,4.3
+chinook salmon cooked,79.2
+mullet cooked,23.1
+chum salmon raw,0.6
+butterfish raw,5.5
+sea bass cooked,23.9
+greenland halibut raw,58.6
+halibut raw,75.7
+sturgeon cooked,28.2
+fish fillet fried,13.3
+rainbow trout raw,15.8
+pout raw,58.6
+rainbow smelt cooked,6.4
+monkfish raw,4.1
+trout raw,16.4
+shark raw,5.9
+burbot raw,22.4
+dolphinfish cooked,37.7
+crayfish cooked,5
+dolphinfish raw,37.7
+perch cooked,11.4
+cusk raw,23.2
+bluefin tuna raw,6.6
+milkfish cooked,7.4
+carp raw,38.9
+sturgeon raw,4.6
+orange roughy raw,4.6
+catfish fried,15.7
+cuttlefish raw,4.6
+bass raw,14.9
+flounder cooked,19.4
+milkfish raw,5.8
+eel raw,37.6
+catfish raw,24.2
+fish sticks,3.1
+coho salmon raw,33.8
+monkfish cooked,5.3
+yellowtail cooked,86.6
+yellowfin tuna cooked,8.2
+ling cooked,36.8
+eel cooked,6.7
+sablefish raw,51.8
+salmon nuggets,3.6
+yellowtail raw,86.5
+butterfish cooked,5.5
+caviar,3.9
+pollock raw,75
+catfish cooked,26.4
+whiting raw,16.8
+pink salmon raw,65.2
+yellowfin tuna raw,6.9
+mackerel raw,20.8
+turbot raw,65.5
+cusk cooked,23.1
+atlantic croaker raw,14
+sucker cooked,26.6
+spot raw,11.8
+drum cooked,34.6
+crayfish raw,0.6
+tilefish cooked,73.5
+bluefish cooked,30.1
+grouper cooked,50.2
+sheepshead raw,48.1
+herring kippered,9.8
+grouper raw,50.2
+ocean perch cooked,9.3
+ling raw,36.7
+lingcod cooked,68.4
+florida pompano raw,20.7
+rockfish cooked,33.1
+seatrout cooked,39.9
+sockeye salmon raw,84.4
+swordfish cooked,24.9
+american shad raw,31.2
+sardine canned in oil,36.7
+anchovy canned in oil,1.2
+salmon canned,79.1
+sardines in tomato sauce canned,18.6
+sockeye salmon canned,79.5
+tuna canned,18.9
+pink salmon canned,80.9
+cod canned,71
+eastern oyster canned,11.4
+chum salmon canned,79.1
+tuna canned in oil,47.2
+wild pink salmon oceans,0
+shrimp canned,26.1
+alaska king crab raw,31.5
+scallops fried,2.6
+shrimp cooked,1.3
+clams fried,1.3
+alaska king crab cooked,25.9
+scallops cooked,2.1
+squid fried,14.4
+oyster raw,4.7
+abalone,14.5
+queen crab raw,5.2
+whelk cooked,13.5
+oyster cooked,4.7
+eastern oyster cooked,0.7
+blue mussels cooked,47.6
+octopus raw,4.2
+spiny lobster cooked,43
+blue mussels raw,17.9
+queen crab cooked,20.2
+dungeness crab cooked,28.3
+dungeness crab raw,28.4
+shrimp fried,1.3
+shrimp raw,0.7
+blue crab cooked,15.2
+shrimp imitation,3.5
+conch baked,33.4
+squid raw,4.4
+scallop raw,1.8
+lobster raw,24.8
+scallop imitation,3.6
+blue crab raw,3.8
+whelk raw,6.7
+spiny lobster raw,43.1
+clams canned,38.8
+lobster cooked,28.5
+eastern oyster fried,1.3
+clams raw,33.3
+octopus cooked,25.3
+eastern oyster raw,0.7
+oyster fried,2.1
+sturgeon smoked,8.8
+chinook salmon smoked,24.9
+cisco smoked,4.6
+haddock smoked,7.1
+whitefish smoked,31.8
+red salmon sockeye filets smoked,65.5
+eggnog,11.6
+beer light,0.8
+beer budweiser,0.1
+weizenbier erdinger,0
+beer light budweiser,0.066
+beer,1.5
+root beer,0
+whiskey sour mix,0.051
+whiskey sour,0
+tequila sunrise,0.6
+daiquiri,0.035
+pina colada,0.6
+whiskey,0
+rum,0
+vodka smirnoff,0
+coffee liqueur,0.041
+gin,0
+dessert wine sweet,0.2
+chenin blanc white wine,0.1
+gamay red wine,0.1
+late harvest white wine,0.1
+gewurztraminer white wine,0.1
+burgundy red wine,0.1
+zinfandel red wine,0.1
+muller thurgau white wine,0.1
+mouvedre red wine,0.1
+table wine,0.1
+wine light,0.1
+white wine,0.1
+petite sirah red wine,0.1
+non alcoholic wine,0.1
+pinot noir red wine,0.1
+pinot gris grigio white wine,0.1
+riesling white wine,0.1
+barbera red wine,0.1
+lemberger red wine,0.1
+merlot red wine,0.1
+sangiovese red wine,0.1
+sauvignon blanc white wine,0.1
+syrah red wine,0.1
+carignane red wine,0.4
+pinot blanc white wine,0.1
+semillon white wine,0.1
+dessert wine dry,1
+red wine,0.1
+cabernet sauvignon red wine,0.1
+muscat white wine,0.1
+cooking wine,0.028
+chardonnay white wine,0.1
+claret red wine,0.1
+rice sake,0.7
+fume blanc white wine,0.1
+cabarnet franc red wine,0.1
+chocolate frosting,0.2
+white sugar,0
+egg substitute,24
+agave syrup,0.025
+splenda sweetener,0
+vanilla extract,0
+egg yolk dried,1.3
+granulated sugar,0
+baking chocolate,3.7
+bakers yeast,1.4
+fondant,0
+brown sugar,0.024
+white frosting dry,4.8
+maple sugar,0.036
+fructose sweetener,0
+saccharin sweetener,0.9
+egg white raw,3.6
+turbinado sugar,0
+vanilla frosting,0
+aspartame sweetener,2.2
+egg raw,7
+pineapple topping,0.3
+egg white dried,5.8
+egg yolk raw,2.7
+baking soda,0
+egg dried,2.4
+strawberry topping,0.014
+bakers yeast dry,1.6
+almond paste,20.4
+cream of tartar,0
+popover dry mix,17.7
+egg substitute powder,15.7
+gelatin powder,4.3
+tapioca pearls,0.3
+baking powder,0
+egg boiled,7.5
+millet flour,12.8
+triticale flour,17.1
+corn flour white,9.6
+rice flour brown,11.4
+sorghum flour,9.5
+cornmeal whole grain,9.9
+cornmeal white,11.2
+barley flour,15.5
+safflower seed meal,10.1
+sesame flour,38.5
+whole grain wheat flour,15.9
+corn flour yellow,8.1
+corn flour whole grain,8.1
+cottonseed flour low fat,14.1
+sunflower seed flour,1.9
+sesame meal,4.8
+acorn flour,9.4
+rice flour white,9.4
+sesame flour low fat,14.2
+potato flour,11
+cornmeal yellow,11.2
+rye flour,10
+arrowroot flour,0.4
+chickpea flour,20.6
+wheat flour,12.9
+cornstarch,0.3
+carob flour,0.3
+buckwheat flour,15.1
+pecan pie,6
+apple pie,3
+vanilla wafer pie crust,6.5
+chocolate pie crust,11.1
+apple strudel,2.3
+chocolate snack cake,1.8
+fruit fried pie,3.8
+pumpkin pie,7
+corn cake,0.7
+sponge snack cake,1.5
+danish pastry with nuts,4.6
+chocolate cream pie,2.6
+angel food cake,1.7
+lemon meringue pie,4.8
+danish pastry with cinnamon,4.8
+cinnamon coffeecake,3.9
+cheesecake,4.4
+fruitcake,1.2
+egg custard,14.2
+mince pie,4.3
+yellow cake with chocolate frosting,4.6
+danish pastry with fruit,4.8
+white cake with coconut frosting,4.9
+danish pastry with cheese,5.8
+graham cracker pie crust,9.3
+blueberry pie,4
+yellow cake with vanilla frosting,2.2
+pie crust,1.5
+chocolate cake with chocolate frosting,4.8
+cheese coffeecake,5.3
+vanilla cream pie,6
+pineapple cake,4
+peach pie,2.2
+fruit coffeecake,2.6
+pound cake,1.7
+pound cake bread,3.9
+white cake,4
+coffeecake with chocolate frosting,4.5
+popcorn cake,1
+banana cream pie,52.2
+baked apple pie mcdonalds,0.9
+sponge cake,4.6
+yellow cake,3.6
+shortcake,1.7
+cherry pie,5
+dutch apple pie,3
+chocolate cake,5
+marshmallow,0.4
+sugar apple,1.6
+toffee,0.1
+vanilla fudge with nuts,0.8
+peanuts chocolate coated,0.5
+caramel with nuts chocolate coated,1.3
+gingerbread,2.9
+rolo nestle,0.009
+vanilla fudge,0.3
+halavah,8.7
+praline,1.3
+fruit juice bar,0.9
+peanut brittle,2.1
+butterscotch,0.079
+chocolate coffee beans,2.1
+nougat with almonds,0.5
+carob,2
+peanut butter fudge,0.6
+sugar coated almonds,0.4
+chocolate coated marshmallow,1.1
+raisins chocolate coated,4.1
+chewing gum sugarless,0
+chewing gum,0
+chocolate syrup,0.8
+chocolate fudge syrup,0.9
+m ms milk chocolate mars,1.8
+milk chocolate with almonds,3.7
+chocolate fudge,0.4
+milk chocolate with rice cereal,0
+m ms peanut chocolate mars,1.7
+dark chocolate,1.5
+chocolate semisweet,7.1
+after eight mints nestle,0.1
+milk chocolate,0.5
+white chocolate,1.8
+chocolate,1.6
+twix mars,1.4
+kit kat nestle,0.7
+snickers mars,4.3
+milky way mars,2.3
+clif bar,10
+gum drops,0
+skittles wild berry mars,0.1
+skittles original mars,0.1
+skittles tropical mars,0.1
+fruit leather,0.029
+taffy,0.087
+eisbonbons mac iver,0
+caramels,0.5
+hard candy,0
+jellybeans,0
+jellies,0.005
+wheat germ toasted,8.7
+crispy brown rice,2.3
+bran flakes asda,0
+amaranth cooked,9.3
+triticale,25.1
+barley raw,1.2
+bulgur dry,6.1
+cottonseed kernels roasted,48.6
+rice bran,15.8
+chaptti roti indian bread,7
+quinoa cooked,8.1
+dar vida swiss original,0
+teff cooked,9.8
+couscous dry,22.1
+weetabix weetabix,0
+oat bran cooked,7
+buckwheat cooked,5.7
+millet puffed,2.7
+oat bran raw,1.3
+popcorn oil popped,0.8
+kamut cooked,11.1
+wheat bran,9
+cheese popcorn,1
+raisin bran crunch kelloggs,1.9
+couscous cooked,6
+multigrain cheerios general mills,0.038
+bulgur cooked,5.6
+popcorn air popped,1
+teff raw,25.7
+spelt cooked,10.7
+millet raw,22
+popcorn unpopped,3.1
+whole wheat cooked,4.8
+wheat sprouted,8.1
+whole wheat dry,3.1
+caramel popcorn,1.1
+wheat puffed,1.8
+roggenmischbrot sonnenblumenkerne aldi,0
+wheat germ,7.2
+microwave popcorn,7.3
+millet cooked,6.1
+kamut raw,27.3
+wheat durum,26.3
+sorghum,21.7
+white wheat,21.7
+rye,17.5
+spelt raw,25.4
+buckwheat raw,1.6
+honey cereali general mills,0
+barley cooked,3.5
+oats,1.7
+amaranth raw,1.4
+semolina,21.2
+quinoa dry,8.5
+wheat shredded,5.2
+cattail,0.2
+peanut granola bar,2.4
+vanilla bluberry bar kind,0
+coconut granola bar,1.5
+almond granola bar,1.8
+chocolate chip granola bar,1.8
+fruit granola bar,1.4
+granola bar,2.1
+peanut bar,6.2
+milk cereal bar,1.6
+almond rice bar,2
+fruit nut squares,0.3
+rice wheat cereal bar,2
+crisped rice bar,1.4
+brown rice raw,14.7
+rice pilaf cooked,7
+beef flavored rice raw,19.8
+wild rice cooked,6.5
+wild rice raw,23.6
+congee with pork shrimp and squid plus egg,0
+white rice pasta cooked,5.1
+chicken flavored rice raw,17.9
+instant white rice raw,7.4
+rice crisps,1.8
+parboiled white rice raw,13.9
+instant white rice cooked,3.6
+rice pilaf raw,21.3
+rice cracker cake,2
+parboiled white rice cooked,4.6
+white rice steamed,4.2
+brown rice cake,0.7
+glutinous white rice raw,12.6
+white rice pasta raw,15.3
+glutinous white rice cooked,3.5
+brown rice cooked,4.5
+beef flavored rice cooked,7
+white rice cooked,4.3
+chicken flavored rice cooked,6.2
+white rice raw,13.2
+cheese imitation,28.3
+cheshire cheese,6.6
+monterey cheese,27.7
+edam cheese,7.5
+fontina cheese,27.6
+monterey cheese low fat,31.9
+colby cheese,26.8
+american cheese,4.5
+blue cheese,6.4
+nectarine,1.6
+kiwifruit gold,0.8
+prickly pear raw,0.001
+pineapple,0.5
+rowan,5.2
+muscadine grapes,0.014
+heidelbeeren jutro,0
+prunes stewed,3.4
+tangerine,0.6
+prunes,2.6
+lemon peel,0.032
+banana,1.6
+raspberries,0.1
+apricot,0.5
+strawberry guava,0.01
+kiwifruit green,0.8
+figs,0.4
+clementine,0.6
+orange,1.7
+bartlett pear,0.7
+red white currants,1.6
+blueberries,1.1
+mulberries,0.2
+java plum,0.034
+prune puree,0.4
+applesauce,0.4
+blackberries raw,2
+plum,0.5
+american grapes,0.035
+peach,1.4
+honeydew melon,1
+yellow plantain fried,2.4
+rose hips,2
+lemons,0.6
+lime,0.5
+pomegranate,2.4
+gooseberries,1.3
+asian pear,0.6
+abiyuch,3.4
+horned melon kiwano,3.7
+fruit walnut salad mcdonalds,4.8
+grapefruit,1
+japanese persimmon,1
+wild raspberries,1.5
+pink lady apple,0.1
+maraschino cherries,0.06
+black currants,1.6
+plantain cooked,1.2
+crab apple,0.4
+pom potes materne,0
+apple,0.5
+cantaloupe melon,1.5
+prickly pear cooked,0.091
+guava,1.4
+strawberries,0.01
+japanese persimmon dried,0.5
+watermelon,1.7
+elderberries,1
+kumquat,0.4
+orange peel,0.093
+pokeberry shoots cooked,3.8
+breadfruit,2.4
+pear,0.6
+sour cherries,1
+plantain raw,2.3
+blackberries frozen,1.8
+cherries,0.068
+plantain fried,0.023
+carambola starfruit,0.9
+chayote cooked,1
+apple dippers mcdonalds,0
+white grapefruit,1.6
+cherimoya,3.7
+melon balls,1.5
+golden delicious apple,0.3
+pokeberry shoots raw,4.2
+cranberries,0.2
+quince,0.4
+chayote raw,1.1
+orange with peel,2.1
+chokecherries,4.7
+mango,2.8
+wild plum,0.7
+jeijoa,1.7
+groundcherries,2.7
+pesca,0
+persimmon,0.2
+grapes,0.045
+rambutan canned,1.4
+figs canned,0.1
+prunes canned,2
+pineapples canned,0.2
+prune plums canned,0.2
+tangerines canned,1.5
+fruit cocktail canned,1.1
+sour cherries canned,1.9
+mangosteen canned,0.8
+apricot juice,1.5
+strawberries canned,1.4
+peach canned,1.6
+fruit salad canned,1.3
+gooseberries canned,1.6
+grapefruit canned,1.4
+pear canned,0.3
+raspberries canned,2.1
+papaya canned,0.001
+grapes canned,1.2
+apple dried,0.6
+peach dried,3
+plantain chips,0.6
+golden raisins,5.6
+raisins seeded,4.2
+zante currants dried,5.9
+pear dried,0.7
+raisins,1
+prune plums dried,2.7
+cranberries dried,0.053
+figs dried,0.3
+longans dried,0.027
+banana chips,0.7
+lychee dried,0.01
+apricot dried,0.2
+longan,0.009
+mamey sapote,2.5
+waxgourd cooked,0.7
+jackfruit,0.6
+loquats,0.09
+mammy apple mamey,4.2
+nance,0.7
+coconut whole coconut,0
+prickly pear,0.8
+lychee,0.024
+naranjilla lulo pulp,0.5
+coconut meat dried,1.9
+waxgourd raw,0.5
+surinam cherry pitanga,0.045
+passion fruit,0.4
+sapodilla,0.7
+pummelo,1
+coconut meat,13.2
+soursop,2.3
+papaya,0.7
+acerola cherry,0.079
+ohelo berries,0.5
+loganberries,2.2
+casaba melon,1.9
+durian,0.5
+coriander leaves raw,0.3
+garden cress raw,0.2
+pasilla peppers dried,0.9
+parsley dried,0.1
+ancho pepper dried,2
+coriander seeds,0.2
+dill weed dried,20
+borage,1.6
+epazote,0.059
+chives dried,0.013
+thyme fresh,0.091
+butterbur,0.1
+wasabi root,6.2
+rosemary dried,0.081
+ginger root,0.068
+white pepper,0.2
+cloves ground,0.1
+paprika,1
+mace ground,0.4
+bay leaf,0.086
+eppaw,4.6
+tarragon dried,0.1
+ginger ground,0.2
+savory ground,0.074
+black pepper,0.2
+spearmint fresh,0.2
+poultry seasoning,0.4
+nutmeg ground,0.1
+curry powder,0.8
+peppermint,0.038
+salt,0
+coriander leaves dried,0.1
+sage ground,0.058
+garlic powder,0.5
+dill weed fresh,0.3
+cardamom,0.2
+saffron,0.071
+allspice ground,0.1
+parsley fresh,0.1
+oregano dried,9
+marjoram dried,0.2
+chives raw,0.03
+fireweed leaves,1.1
+rosemary fresh,0.005
+garlic,0.2
+cinnamon ground,0.1
+chervil dried,0.4
+cayenne pepper,0.039
+turmeric ground,0.2
+mustard,0.2
+chili powder,0.4
+thyme dried,9.1
+spearmint dried,0.094
+basil dried,0.2
+dandelion greens cooked,2.1
+basil fresh,0.2
+dock,2.7
+garden cress cooked,2.6
+onion powder,0.2
+dandelion greens raw,1.5
+yokan,0.5
+fava beans cooked,12.9
+french beans raw,34.6
+chickpeas canned,17.8
+yellow beans cooked,16.2
+mung beans cooked,14.2
+white beans canned,19
+pink beans cooked,15.3
+pink beans raw,44
+navy beans raw,46.4
+snap beans cooked,2.4
+black eyed cowpeas raw,4.3
+edamame cooked,18.5
+black eyed cowpeas cooked,5.2
+hyacinth beans cooked,15.8
+cowpeas canned,11.4
+pinto beans cooked,15.4
+winged beans cooked,18.3
+pinto beans raw,41.3
+black turtle beans raw,39.1
+fava beans raw,39.2
+lima beans canned,11.9
+hyacinth beans raw,50.2
+white beans raw,47.2
+snap beans canned,3.5
+navy beans canned,19.7
+mung beans raw,49.4
+adzuki beans raw,39.1
+black turtle beans cooked,15.1
+pink lentils raw,47.9
+yellow beans raw,43.1
+white beans cooked,17.4
+lentils raw,49.5
+cranberry beans cooked,16.5
+chickpeas raw,38.6
+lentils cooked,17.9
+baked beans canned,12.1
+cranberry beans canned,14.4
+black beans cooked,15.2
+lima beans cooked,14.7
+mungo beans raw,52.2
+pigeon peas raw,44.5
+fava beans canned,14
+yellow snap beans raw,1.8
+snap beans raw,1.8
+yellow snap beans canned,1.9
+pigeon peas cooked,11.4
+catjang cowpeas raw,39.8
+navy beans cooked,15
+mothbeans raw,45
+cowpeas cooked,5.4
+mothbeans cooked,13.8
+french beans cooked,12.5
+lima beans raw,38.2
+winged beans raw,54
+adzuki beans cooked,17.3
+black beans raw,41.9
+catjang cowpeas cooked,13.9
+baby lima beans cooked,12
+cowpeas raw,3.1
+shellie beans canned,4.3
+yardlong beans raw,40.6
+pinto beans canned,11
+chickpeas cooked,14.5
+cranberry beans raw,44.9
+mungo beans cooked,13.6
+tamarinds,0.057
+yellow snap beans cooked,2.4
+yardlong beans cooked,14.2
+bacon beef steak,8.2
+lamb foreshank raw,85.8
+bacon,3.3
+lamb rib cooked,53.9
+lamb shank raw,84.3
+scrapple,2.3
+chicken nuggets,3.2
+ground lamb cooked,77.5
+lamb meat cooked,63.8
+meat extender,33.5
+lamb leg raw,81.2
+lamb loin cooked,16.1
+chicken patty,8.9
+lamb shank roasted,71
+barbecue loaf,3.6
+lamb sirloin cooked,64.5
+poultry salad,1.5
+ground lamb raw,4.7
+lamb loin raw,4.6
+lamb sirloin raw,76.8
+sausage patty mcdonalds,4.3
+lamb foreshank cooked,42
+ham salad,3.9
+lamb rib raw,65.9
+lamb shoulder raw,75.2
+lamb meat raw,79.6
+lamb shoulder cooked,62.5
+mutton cooked,9.5
+lamb leg cooked,67.7
+beef stick,4.3
+veal sirloin cooked,64.1
+veal rib cooked,57.4
+veal meat cooked,62.9
+beef rib roasted,15.4
+veal sirloin raw,86.5
+beef top loin filet grilled,37
+beef under blade steak cooked,140.8
+mock tender steak raw,42.2
+ground beef cooked,35.5
+ground beef raw,65.1
+beef diced asda,0
+veal rib raw,85.5
+ground veal raw,5.5
+t bone steak cooked,89.3
+veal leg round raw,95.2
+beef top sirloin steak raw,123.4
+beef plate steak grilled,47.1
+ground veal cooked,72.9
+veal leg round cooked,98.4
+porterhouse steak raw,81.6
+veal shank raw,86.9
+veal breast cooked,76.3
+corned beef canned,5.7
+rib eye steak grilled,62.4
+veal shoulder raw,0
+t bone steak raw,85.7
+sirloin steak,49.5
+mock tender steak cooked,21.9
+beef round steak cooked,64.8
+chuck blade roast raw,77.8
+beef shoulder steak raw,48.2
+beef top blade cooked,21.9
+corned beef cooked,3.8
+beef round steak raw,100.1
+beef shoulder steak grilled,24
+chuck eye steak raw,72.4
+beef bottom round steak cooked,155.8
+porterhouse steak cooked,20.4
+beef under blade steak raw,126.8
+beef plate steak raw,47.8
+beef meat canned,9.2
+beef breakfast strips raw,2.8
+beef brisket cooked,46
+corned beef raw,66.6
+beef mince meat asda,0
+pastrami beef fat free,1.9
+rib eye steak raw,62.8
+beef tenderloin steak cooked,37
+chuck blade roast cooked,66.1
+cured beef dried,0.9
+beef flank steak cooked,51.8
+chuck eye steak grilled,76.9
+veal meat raw,87.8
+veal loin cooked,8.5
+veal loin raw,5.3
+veal shoulder cooked,61.2
+beef tenderloin steak raw,32.2
+veal shank cooked,61.2
+beef brisket raw,83.6
+pastrami beef,15.5
+beef flank steak raw,6
+beef top sirloin steak cooked,47.7
+veal breast raw,79.2
+beef rib raw,73.8
+beef jerky,6.6
+beef breakfast strips cooked,3.5
+pork olive loaf,3.3
+beef luncheon meat jellied,5.3
+turkey pastrami,4.6
+pork salami,2.3
+canadian style bacon raw,5.9
+honey loaf,9.9
+pork beef salami,2.1
+beef pork bologna,4.6
+pork beef salami cooked,2.7
+pork breakfast strips raw,2.7
+pickle pimiento loaf,4.3
+luxury loaf,5.2
+mortadella,2.5
+pork bologna,4.3
+turkey salami cooked,1
+pepperoni beef,0.5
+peppered loaf,4.9
+luncheon meat beef,1.8
+lebanon bologna,10.8
+chicken pork bologna,2.9
+turkey roll,4.9
+beef salami cooked,3.3
+yachtwurst cooked,8.3
+italian salami,2.2
+turkey ham,5.5
+turkey bologna,3.2
+sliced turkey breast,2.4
+luncheon meat pork beef,3.5
+beef bologna,3.3
+turkey bacon cooked,24.3
+ground emu cooked,31
+ostrich leg raw,19
+ostrich strip raw,20.1
+emu fillet cooked,123.2
+ostrich tenderloin raw,18.8
+emu drums cooked,134.7
+green turtle raw,5.6
+ground bison cooked,63.6
+goat meat raw,93.4
+ground emu raw,26.6
+ground ostrich raw,22
+ostrich tip cooked,24.2
+caribou cooked,38
+ground ostrich cooked,24.3
+ostrich leg cooked,24.7
+ostrich top loin cooked,23.9
+ostrich strip cooked,25
+ostrich tip raw,18.6
+ostrich round raw,18.7
+ground bison raw,17.2
+ostrich fan raw,18.5
+ostrich top loin raw,18.4
+veal brain cooked,38.9
+veal tongue cooked,65.9
+beef heart cooked,8.1
+turkey liver cooked,14.3
+veal thymus cooked,6.4
+beef brain cooked,44.1
+beef pancreas cooked,60.2
+beef tripe cooked,10
+chicken gizzard cooked,44.1
+pork pancreas cooked,69.8
+beef tongue cooked,5.5
+lamb heart cooked,47.7
+beef spleen cooked,77.3
+veal kidneys cooked,48.4
+chicken heart cooked,38.3
+lamb tongue cooked,55
+veal heart cooked,57.7
+chicken liver cooked,11.3
+lamb pancreas cooked,52.7
+veal spleen cooked,83.1
+lamb liver cooked,102.7
+turkey gizzard cooked,11.9
+lamp spleen cooked,78.1
+turkey heart cooked,5
+beef liver cooked,19.8
+lamb lungs cooked,75.7
+pork brain cooked,46.4
+goose liver,15.4
+pork kidneys cooked,35.6
+lamb brain cooked,43.5
+pork heart cooked,34.2
+lamb kidneys cooked,60.3
+beef lungs cooked,61.8
+veal pancreas cooked,69.8
+pork liver cooked,92.1
+beef kidneys cooked,7.7
+turkey giblets cooked,25.1
+duck liver raw,8.2
+veal liver cooked,22.7
+pork lungs cooked,49.8
+veal lungs cooked,56.2
+beef thymus cooked,83.2
+ham,4.6
+pork meat cooked,14.1
+bacon roasted,3
+pork top loin roasts raw,468.4
+pork blade roll raw,4.7
+pork backribs raw,204.2
+pork spareribs cooked,51.4
+pork stomach cooked,6.1
+honey smoked ham cooked,9.9
+boston butt steak raw,79
+pork sirloin chops cooked,23.3
+pork country style ribs raw,24.8
+ham patties,8.3
+pork feet cooked,6.2
+ground pork cooked,80.4
+pork centre loin chops cooked,40.2
+pork leg cap steak cooked,53.5
+pork blade chops raw,55.8
+pork tenderloin raw,104.3
+pork sirloin chops raw,205.5
+pork leg cap steak raw,50
+pork carcass raw,63.1
+pork splean cooked,84.3
+chopped ham,4.6
+pork centre loin chops raw,41.2
+pork blade chops cooked,32.4
+boston butt steak cooked,46.4
+pork meat raw,2.6
+pork top loin chops raw,39.9
+pork blade steak braised,68.2
+pork boston steaks cooked,43.2
+bacon cooked,3.5
+pickled pork hocks,5.4
+pork boston roast cooked,60.5
+canadian style bacon grilled,5.7
+ham steak,11.1
+pork backfat,13.2
+bacon baked,2.9
+pork arm picnic raw,513.6
+salt pork raw,1.4
+pork arm picnic cooked,560.3
+pork top loin chops cooked,39.4
+ground pork raw,21.1
+pork shoulder raw,77.9
+pork chitterlings cooked,3.5
+pork breakfast strips cooked,3.3
+pork blade roll roasted,65
+pork tail cooked,46.8
+pork centre rib roasts raw,44
+pork centre rib roasts roasted,211.3
+minced ham,3.4
+ham roasted,28.7
+pork loin raw,23.1
+pork backribs roasted,202
+pork belly raw,42.4
+ham raw,23.8
+ham extra lean,5.1
+pork feet pickled,52.8
+pork shoulder cooked,31.4
+pork top loin roasts roasted,224.3
+pork skin,17.3
+pork country style ribs cooked,22.8
+pork blade steak raw,67.6
+pork tenderloin cooked,22.7
+pork loin cooked,24.2
+pork ears cooked,17.7
+pork tongue cooked,55.7
+pork spareribs raw,200.6
+ham patties grilled,8
+chicken skin roasted,22.8
+turkey breast raw,495.6
+ground turkey raw,22.4
+chicken wing cooked,4.8
+turkey roast roasted,28.8
+pheasant meat raw,181.6
+chicken back raw,8.3
+chicken back cooked,8
+chicken leg fried,34.4
+chicken feet cooked,88
+turkey steak fried,9.1
+turkey taco meat cooked,30.7
+chicken leg raw,56.3
+chicken meat raw,171.1
+chicken neck cooked,7.5
+chicken drumstick fried,15.8
+quail egg,1.2
+duck meat cooked,26.6
+chicken wing roasted,20.2
+quail meat cooked,113.7
+goose meat cooked,35.2
+chicken breast cooked,17.3
+chicken neck raw,7
+duck egg,9
+pheasant breast raw,88.7
+duck meat raw,145.7
+squab meat raw,36.8
+chicken drumstick raw,23.4
+turkey meat roasted,42.8
+chicken breast raw,36.3
+ground chicken cooked,58.4
+turkey wing cooked,50.9
+goose meat raw,259.8
+turkey breast roasted,496.1
+chicken fajita strips,1.7
+crispy chicken strips tyson,0
+chocolate pudding fat free,2.2
+tapioca pudding,2.1
+tapioca pudding fat free,1.6
+rice pudding,3.6
+corn pudding,11.1
+chocolate pudding,3.1
+lemon pudding,4.1
+vanilla pudding,2.2
+profeel proteiinirahka valio,175
+cottage cheese creamed,2.2
+zaziki milfina,0
+cottage cheese low fat,28
+cottage cheese nonfat,15
+vanilla yogurt low fat,12.1
+classique yogurt plain 2 liberte,3.3
+yoplait light strawberry yogurt yoplait,0
+vanilla yogurt,8.4
+chocolate yogurt,5.3
+yogurt parfait,5
+yogurt,5.2
+chocolate frozen yogurt,5.2
+frozen yogurt,5.2
+yogurt low fat,12.9
+vanilla yoghurt oikos,0
+fruit yogurt,6
+danone low fat alsafi,0
+fruit n yogurt parfait mcdonalds,4.1
+triple zero greek yogurt dannon oikos,0.038
+greek yogurt,17.3
+chocolate rasberry protein mini proteinfx,0
+gushers fruit gushers,0
+egg fried,6.3
+glucerna abbott,0
+sports drink,0
+peanut butter cookie protein syntha 6,0
+hanfprotein pulver rohkostqualitat veganz,0
+smoothie high protein creamy chocolate slimfast,12
+egg large,0
+boysenberries frozen,1.5
+malt beverage,0.5
+chocolate powder for milk,1
+vegetable fruit juice,0.071
+cocoa powder unsweetened,1.1
+coconut milk,0.3
+cocoa powder,0.5
+rice drink,0.7
+coconut water,1.7
+caramel med iced coffee dunkin donuts,0
+instant coffee with water decaffeinated,0.2
+instant coffee powder,12.2
+instant coffee powder decaffeinated,0.2
+instant cappuccino powder,0.4
+coffee decaffeinated,0.2
+espresso decaffeinated,0.065
+instant coffee with water,0.2
+coffee,0.3
+espresso,0.021
+whey protein powder vanilla eas,0
+energy drink sugar free red bull,0.6
+powerade coca cola,0
+amp energy pepsi,0.6
+gatorade g2 pepsi,0.069
+amp energy sugar free pepsi,0
+energy drink red bull,1.2
+powerade zero ion4 coca cola,0
+full throttle coca cola,0.6
+passion fruit juice purple,1.7
+pomegranate juice,0.4
+cranberry apricot juice,0.5
+pineapple juice,0.9
+passion fruit juice yellow,1
+orange apricot juice,0.8
+tangerine juice,1.2
+orange juice,1.4
+grapefruit juice,1.2
+pineapple grapefruit juice,0.5
+tamarind nectar,0.2
+apple juice,0.2
+limeade,0
+guava nectar,0.2
+orange grapefruit juice,1.5
+orange juice sainsburys,0
+cranberry apple juice,0
+pineapple orange juice,3.3
+pear nectar,0.3
+blackberry juice,0.8
+lemon juice,0.9
+cranberry grape juice,0.5
+citrus fruit juice,0.8
+prune juice,1.6
+guanabana nectar,0.3
+fruit juice,0.3
+horchata,0.1
+fruit punch,0.2
+apricot nectar,0.9
+orangensaft ja,0
+fruchtcocktail granini,0
+peach nectar,0.5
+orange pineapple juice,0.1
+cranberry juice,0.8
+white grapefruit juice,1.2
+mango nectar,0.3
+acerola cherry juice,1
+apple juice concentrate,1.1
+papaya nectar,0.4
+apple juice martinellis,0
+lime juice,1
+grape juice,0.9
+water dannon,0
+tap water,0
+table water,0
+fruit flavored water,0
+water,0
+cola light coca cola,0
+lemon lime soda,0.3
+tonic water,0
+lemonade low calorie,0.092
+ginger ale,0
+ice tea lemon flavor nestle,0
+sprite coca cola,0.1
+cola coca cola,0
+cola,0.1
+cream soda,0
+club soda,0
+pink lemonade,0.1
+grape soda,0
+cola without caffeine coca cola,0
+white lemonade,0.1
+chocolate soda,0
+sweet tea lipton,0
+hibiscus tea,0.9
+instant lemon tea,0.1
+pesca tea santal,0
+instant lemon tea sweetened,0.071
+tea with milk and sugar yorkshire,0
+tea blueberry muffin tekanne,0
+chamomile tea,0
+black tea,0
+herb tea,0
+clam tomato juice,1
+tomato juice,2.1
+vegetable juice,1.5
+tomato vegetable juice,1.5
+carrot juice,1.9
+acorn dried,2.3
+fenugreek seeds,2.6
+peanut topping mcdonalds,7.9
+beechnuts dried,1.9
+breadnut tree seeds raw,1.7
+cumin seeds,0.4
+pili nuts dried,13
+hazelnuts roasted,4.5
+lupins cooked,25.8
+hazelnuts blanched,3.9
+brazilnuts dried,0.7
+sunflower seeds dry roasted,1.5
+ginkgo nuts canned,3.5
+peanuts cooked,24.3
+pumpkin squash seeds dried,39
+cashew nuts raw,5.2
+sunflower seeds dried,9.6
+lotus seeds dried,4.9
+butternuts dried,29.9
+sesame seeds dried,1.6
+breadfruit seeds,2.2
+pinyon pine nuts dried,0.083
+pine nuts dried,18.5
+flaxseeds,1.9
+safflower seed kernels dried,4.6
+pistachio nuts raw,24.9
+peanuts raw,37.7
+poppy seeds,1.6
+valencia peanuts raw,36.6
+spanish peanuts,38.2
+dill seeds,1.1
+caraway seeds,1.3
+acorn raw,1.7
+almonds roasted,6.4
+lotus seeds raw,1.2
+chestnuts cooked,0.6
+alfalfa seeds,0.1
+virginia peanuts roasted,7.8
+hazelnuts raw,11.2
+anise seeds,0.4
+macadamia nuts roasted,2.3
+studentenfutter alnatura,3.1
+pumpkin squash seeds roasted,2.4
+water chestnut raw,1.7
+chestnuts roasted,0.5
+ginkgo nuts raw,1.2
+almonds raw,0.3
+peanuts roasted,8.4
+sunflower seeds toasted,23.1
+sisymbrium seeds,9
+breadnut tree seeds dried,13.8
+pecans raw,10
+chia seeds dried,4.7
+japanese chestnuts roasted,0.8
+sesame seeds toasted,1.4
+cashew nuts roasted,5.1
+lupins raw,65.1
+mustard seeds ground,0.5
+mixed nuts roasted,5.2
+salat mix alestro,0
+chestnuts raw,3.5
+pistachio nuts roasted,6.3
+walnut,0.8
+celery seeds,1.2
+hickorynuts dried,15.3
+spanish peanuts roasted,41.2
+woca seeds dried,2.2
+pecans roasted,2.8
+fennel seeds,0.3
+chinese chestnuts roasted,1.3
+watermelon seed kernels dried,30.6
+macadamia nuts raw,0.4
+pectin,0.2
+black walnut dried,1.2
+water chestnut canned,1.2
+ginkgo nuts dried,2.9
+virginia peanuts raw,36.8
+valencia peanuts roasted,8.1
+nesfit diet cereal nestle,0
+corn grits cooked,4.4
+amaranth flakes,5.9
+granola,8.2
+muesli with fruit nuts,4.3
+muesli master crumble,2.4
+bran flakes,4
+nut cereal,4
+corn flakes,1.7
+corn grits dry,0.7
+margarine with yoghurt,0.058
+sunflower seed butter,2.8
+hazelnut oil,0
+menhaden fish oil,0
+cod liver fish oil,0
+sardine oil,0
+cupu assu oil,0
+lard,0
+sesame butter,2.9
+margarine spread,0.082
+lard vegetable oil,0
+shortening,0
+vegetable oil spread,0.007
+cottonseed oil,0
+vegetable oil spread fat free,0.2
+soy margarine,0
+margarine with salt,0.031
+margarine,0.037
+salmon fish oil,0
+nutmeg butter oil,0
+almond butter,3.4
+sour cream shoprite,0
+ucuhuba butter oil,0
+chicken fat,0
+herring fish oil,0
+bacon grease,0
+turkey fat,0
+beef tallow,0
+goose fat,0
+duck fat,0
+mutton tallow,0
+grapeseed oil,0
+sheanut oil,0
+almond oil,0
+sunflower oil,0
+cashew butter,2.8
+canola oil,0
+babassu oil,0
+teaseed oil,0
+avocado oil,0
+vegetable palm kernel oil,0
+coconut oil,0
+safflower oil,0
+vegetable oil,0
+apricot kernel oil,0
+peanut oil,0
+poppyseed oil,0
+flaxseed oil,0.086
+tomatoseed oil,0
+wheat germ oil,0
+sesame oil,0
+corn granola oil,0
+cocoa butter oil,0
+olive oil,0
+palm kernel oil,0
+mustard oil,0
+rice bran oil,0
+vegetable macaroni dry,11
+chow mein noodles,5.9
+chinese noodles,0.2
+vegetable macaroni cooked,6.1
+corn pasta dry,7.8
+egg noodles dry,5.4
+whole wheat spaghetti dry,4.1
+japanese soba noodles dry,4.1
+rice noodles dry,1
+spinach spaghetti dry,3.8
+egg noodles cooked,3.6
+japanese somen noodles cooked,7
+whole wheat macaroni dry,15.4
+pasta marinara and ground beef sauce,2.5
+macaroni raw,13.7
+spaghetti dry,3.7
+fusilli cucina,0
+japanese somen noodles dry,3.2
+pasta cooked,11.8
+macaroni cooked,8.1
+spinach egg noodles dry,5.6
+japanese soba noodles cooked,5.8
+rice noodles cooked,3.2
+whole wheat macaroni cooked,7.5
+spaghetti cooked,13.3
+whole wheat spaghetti cooked,7.5
+waffle,5.9
+baked taco shell,0.8
+puff pastry,18.1
+blueberry muffin,2.6
+bread crumbs,14.4
+warm cinnamon roll mcdonalds,2
+corn muffin,3.9
+tortilla,14.3
+croutons seasoned,4.3
+buttermilk waffle,2.4
+flour tortilla,3.9
+glazed donut,0.8
+corn tortilla,1.4
+muffin,3.9
+croutons,1
+donut with jelly filling,5
+sweet cinnamon rolls,5.1
+oat bran muffin,1.2
+french cruller donut,1.3
+pancakes,2.4
+chocolate donut,2.7
+sweet cheese rolls,4.7
+eclair,4.4
+donut with cream filling,5.4
+fruit toaster pastry,2.4
+donut,2.3
+pancakes whole wheat,3.7
+keikitos,2.9
+zwieback,0.7
+chocolate coated donut,0.9
+waffle toasted,2.4
+cinnamon toaster pastry,2.6
+wheat bran bread,3.2
+white bread,2.6
+oat bran bread,3.1
+whole wheat bread natures own,0
+high protein bread dr zaks,0
+wheat bread,3.1
+egg bread toasted,3.9
+butter toastbrot ja,0
+vienna bread toasted,3.8
+vienna bread,3.8
+protein bread,2.3
+banana bread,2.5
+rice bran bread,2.4
+white fibre wonder bread,3.5
+focaccia,5
+oat bran bread toasted,3.1
+rye bread,2.7
+wheat germ bread,2.7
+protein bread toasted,2.2
+oatmeal bread,2.3
+arepa,5.4
+raisin bread toasted,2.5
+cracked wheat bread,2.5
+garlic bread,3.6
+rye bread toasted,2.7
+whole wheat bread,3.9
+whole wheat bread toasted,3.9
+pan dulce bread,5.9
+rice bran bread toasted,2.4
+pita bread whole wheat,2.7
+wheat germ bread toasted,2.7
+pumpernickel bread,2.3
+frybread,10.2
+white bread toasted,2.5
+piki bread,2.5
+wheat bread toasted,3.1
+pita bread,5.5
+potato bread,4
+egg bread,3.8
+oatmeal bread toasted,2.3
+cheese bread,5
+pumpernickel bread toasted,2.8
+raisin bread,2.5
+pumpernickel roll,3
+cinnamon raisin bagel,2.5
+english muffin,5
+rye dinner roll,4.4
+english muffin whole wheat,5.8
+dinner roll whole wheat,2.4
+dinner roll,2.4
+hotdog roll,4.1
+bagel,10
+oat bran bagel,7.4
+pain au chocolat de la boulangerie,0
+egg bagel,2.8
+english muffin toasted,5.4
+english muffin whole wheat toasted,5.9
+biscuit,7.1
+french roll,3.3
+oat bran dinner roll,3.1
+pecan shortbread cookies,0.7
+oatmeal cookies,1.6
+chocolate wafers,7.4
+vanilla wafers low fat,4
+chocolate chip cookies mcdonalds,1.6
+gingersnap cookies,0.4
+biscotti abbracci mulino bianco,0.4
+chocolate chip cookie,0.5
+brownie,2.9
+shortbread cookies,0.5
+oatmeal cookies with raisins,1
+peanut butter sandwich cookies,1.2
+sugar cookies,0.8
+chocolate covered graham crackers,0.8
+raisin cookies,0.6
+vanilla wafers,0.3
+graham crackers,5.8
+peanut butter cookies,1.8
+vanilla sandwich cookie,0.7
+sugar wafers with creme filling,0.4
+cheese puffs,2.1
+saltine crackers,0.3
+trail mix,4.1
+corn cones,1.6
+chocolate pretzels,0.8
+french toast sticks,1.3
+crackers,1.1
+sesame sticks,1.1
+cheese crackers,0.8
+oriental rice cracker mix,4.9
+breadsticks,3
+milk crackers,0.8
+matzo crackers whole wheat,3.7
+matzo crackers with egg,3.4
+granola bites,0.4
+crackers whole wheat,3
+tropical trail mix,8.8
+soft pretzels,9.4
+corn tostada shell,0.8
+matzo crackers,2.8
+sesame crunch,0.2
+trail mix with chocolate chips,20.7
+cracker meal,10.7
+puffed rice,2.4
+filinchen gutena,0.4
+melba toast crackers,3.6
+matzo crackers with egg onion,2.8
+cornnuts,2.4
+bagel chips,21.6
+pretzels,3
+potato raw,4.3
+gatto di patate home made,0
+baked potato,4.3
+potato sticks,2.4
+potato cooked,1.1
+vivaldi potatoes sainsburys,0
+potato ham chowder soup,6.5
+russet potato raw,7.9
+russet potato baked,7.9
+french fries,0.2
+potato scalloped,7
+cottage fries,0.2
+mashed potatoes,4
+mashed potato with milk and butter,3.9
+red potato raw,4
+potato pancake,1.3
+potato puffs,2.6
+red potato baked,2
+potatoes canned,3.6
+potato skin raw,1
+shoestring french fries,0.099
+hash brown potato,1.4
+baked chips lays,0
+corn chips,1.9
+nacho cheese tortilla chips low fat,2.4
+corn chips barbecue,13.9
+corn chips unsalted,5.8
+potato chips fat free,21.9
+sweet chilli kettle baked chips,2
+taro chips,0.049
+potato chips reduced fat,12.1
+onion snacks,2.3
+potato chips cheese,14.5
+yuca cassava chips,0.054
+tortilla chips low fat,3.1
+ranch flavor tortilla chips,14.2
+potato chips,2.1
+tortilla chips,2.1
+sweet potato chips,0.8
+nacho cheese tortilla chips,2.2
+vegetable chips,1.5
+taco flavor tortilla chips,17.9
+potato chips barbecue,15.2
+pita chips,3.5
+potato chips sour cream and onion,16
+adobo fresco,5.8
+chili pepper sauce red,0.1
+creamy ranch sauce mcdonalds,0.3
+catsup,0.2
+chili pepper sauce green,0.1
+red wine vinegar,0.055
+fish sauce,0.9
+coleslaw dressing reduced fat,0
+sour dressing,0.4
+guava sauce cooked,0.8
+pizza sauce,5.5
+sweetn sour sauce mcdonalds,0.2
+nance syrup,0.028
+french dressing reduced fat,0.072
+peppercorn dressing,0.2
+sorghum syrup,0
+ranch dressing fat free,0.039
+caesar dressing low calorie,0.028
+sweet sour dressing,0.082
+mayonnaise imitation fat free,0.043
+sofrito,26.4
+turkey gravy instant,0.8
+teriyaki sauce,1.1
+tomato sauce,2.9
+barbecue sauce kraft,0.1
+cranberry sauce sweetened,0.6
+coleslaw dressing,0.1
+onion gravy dry,2.2
+corn syrup light,0
+bacon tomato dressing,0.3
+pancake syrup,0
+balsamic vinegar,0.041
+ranch dressing reduced fat,0.2
+barbecue sauce mcdonalds,0.4
+vinegar oil dressing,0
+poppyseed dressing,0.2
+honey mustard dressing,0.1
+french dressing fat free,0.01
+vinegar,0
+spray dressing,0.07
+honey mustard dressing fat free,0.2
+mushroom gravy,3
+white sauce,9.6
+marinara pasta sauce,3.7
+tomato sauce with mushrooms,3.6
+pork gravy powder,0.6
+beef gravy,8.7
+green goddess dressing,0.3
+salsa con queso,7.9
+cocktail sauce,0.2
+worcestershire sauce,0
+barbecue sauce,0.1
+tomato sauce with onions,3.8
+brown gravy dry,0.6
+blue cheese dressing light,0.3
+spanish tomato sauce,3.5
+oyster sauce,0.2
+cheese sauce,1.5
+hoisin sauce,0.5
+pickle relish,0.097
+tomato sauce with herbs cheese,5.2
+french dressing,0.1
+mayonnaise hellmanns,0
+canadian maple syrup,0
+maple syrup,0.09
+barbecue sauce bulls eye,0.1
+ranch dressing,0.2
+tomato ketchup mp,0
+mayonnaise light,0.032
+mayonnaise dressing,0
+malt syrup,1.3
+gravy dry,3.3
+cranberry orange relish,0.8
+caesar dressing,0.3
+italian dressing,0.032
+brown gravy instant,0.6
+roquefort cheese dressing,0.8
+blue cheese dressing,0.2
+duck sauce,0.1
+au jus,2.8
+corn syrup dark,0
+buttermilk dressing light,0.2
+cider vinegar,0
+tartar sauce,0.2
+pepper hot sauce,0.024
+tomato chili sauce,0.2
+turkey gravy dry,0.7
+salsa sauce,0.3
+steak sauce,0.2
+molasses,0
+italian dressing fat free,0.1
+plum sauce,0.2
+chow mein stir fry master foods,0
+beef gravy instant,0.7
+horseradish,0.003
+grenadine,0
+tabasco sauce,0.045
+sweet sour sauce,0.02
+salsa verde,0.2
+miso,2.6
+sprouted soybean cooked,8
+soy flour roasted,29.6
+soy flour low fat,40
+green soybean cooked,11.1
+azumaya tofu vitasoy,32.8
+soy proteins isolate,22.8
+tofu yogurt,9.2
+bacon meatless,15.4
+meatless chicken fried,27.7
+soymilk,7.1
+soy vermicelli,0.1
+tofu fried,2.4
+tempeh,30.8
+koyadofu,8.9
+meatless meatloaf,11.8
+soya vanille joghurt alpro,0.3
+soybean curd cheese,28.1
+soy sauce,1.3
+soybean dry roasted,36.8
+soybean oil,0
+meatless chicken,39.7
+soybean cooked,28.6
+soymilk nonfat,6
+soy flour,1.8
+soybean lecithin oil,0
+tofu raw,20
+soy chips,7.5
+green soybean raw,33.2
+soy proteins concentrate,18
+soybean margarine,0.052
+chocolate soymilk nonfat,6
+okara,3.9
+meatless meatballs,30.2
+vanilla soymilk,7.9
+soy meal raw,54.8
+soymilk low fat,4
+sprouted soybean raw,9.2
+soybean raw,67.9
+tempeh cooked,5.1
+vanilla soymilk light,6.4
+chocolate soymilk,5.5
+soy oil,0
+natto,14.2
+chrysanthemum raw,1.7
+gourd cooked,1.2
+cauliflower raw,0.2
+red cabbage raw,2.4
+broccoli raab raw,1.3
+napa cabbage cooked,1.2
+kelp,0.07
+shallots raw,0.6
+bamboo shoots raw,4.7
+jute cooked,3.2
+red lettuce,0.4
+broccoli cooked,6.7
+romanesco raw,1.9
+eggplant raw,4.5
+leeks raw,1.3
+lemongrass citronella,0.038
+pumpkin cooked,1.8
+celery cooked,0.3
+serrano pepper,0.1
+nopales raw,1.1
+sweet potato leaves cooked,1.4
+eggplant cooked,0.8
+asparagus cooked,0.4
+rutabaga cooked,2.2
+parsnips raw,2
+sour pickles,0.5
+turnip greens cooked,1.6
+jerusalem artichokes,3
+collard raw,1.1
+chrysanthemum cooked,1.6
+oriental radish dried,9.2
+tomatillos,1.3
+taro shoots raw,0.8
+acorn squash raw,3.4
+leeks dried,0.5
+cabbage raw,3.6
+sweet red peppers cooked,0.7
+sweet red peppers raw,1.5
+cucumber peeled,0.8
+purslane raw,0.9
+peas onions cooked,4.6
+tomato cooked,1.2
+taro shoots cooked,1
+scots kale raw,1.9
+artichoke raw,4.2
+navy bean sprouts raw,6.4
+sweet pickles,0.9
+oriental radish cooked,1
+sweet potato leaves raw,0.9
+irishmoss,0.037
+drumstick leaves cooked,2.2
+winter squash raw,1.1
+pumpkin raw,1.2
+chicory greens,0.5
+spinach cooked,5.3
+radish pickled,1.7
+sweet onion,2.6
+salsify cooked,3.7
+radish seeds sprouted,1.4
+turnips raw,1.6
+burdock root raw,1.8
+red cabbage cooked,2.6
+jute raw,1.3
+hot chile pepper dried,0.054
+salsify raw,4.4
+crookneck squash raw,1.3
+indian squash cooked,0.7
+poi,0.9
+sesbania flower cooked,1.2
+acorn squash cooked,2.3
+cauliflower cooked,2.3
+crookneck squash cooked,1.9
+laver seaweed,0.2
+mountain yam cooked,2.5
+pumpkin flowers raw,0.3
+mustard greens raw,1.6
+arrowhead,0.6
+japanese cabbage,2.4
+mung bean sprouts cooked,2.5
+scallop squash cooked,1.9
+pumpkin leaves cooked,1.9
+hungarian pepper,0.2
+sweet potato baked,2.3
+chinese cabbage pe tsai raw,0.9
+taro raw,1.6
+yam bean jicama,0.9
+olives,0.09
+mustard greens cooked,3.6
+pumpkin flowers cooked,1.5
+tree fern cooked,0.4
+yellow corn raw,15.6
+endive,0.6
+wakame,2.4
+tahitian taro raw,3.5
+broccoli raw,2.6
+sweet green peppers raw,1.3
+chinese cabbage pak choi cooked,2.7
+agar,0.053
+watercress,0.8
+beet greens cooked,3.7
+winter squash cooked,1.8
+new zealand spinach raw,0.8
+okra,0.2
+yautia tannier,2
+mustard spinach cooked,3.1
+rhubarb cooked,0.9
+beets raw,2.2
+drumstick pods raw,2.1
+baby zucchini,0.3
+onion raw,0.4
+romanesco cooked,3.7
+butternut squash raw,2
+amaranth leaves,0.7
+turnip greens raw,0.8
+spaghetti squash raw,0.6
+seaweed dry,3.1
+yam cooked,2
+corn dried,4.1
+cucumber,1
+arrowroot,5.1
+cardoon raw,1.2
+bamboo shoots cooked,1.8
+summer squash raw,3.1
+sweet potato raw,2
+green tomato,2.2
+beet greens raw,0.8
+savoy cabbage cooked,3.1
+witloof chicory,0.5
+turnips cooked,1.1
+dried tomatoes,0.3
+radicchio,0.9
+mixed vegetables cooked,5.2
+yellow tomato,2.1
+cardoon cooked,0.9
+spinach raw,0.9
+kale raw,0.6
+drumstick pods cooked,2.5
+kohlrabi raw,4.5
+lentil sprouts,6.9
+carrots raw,0.6
+red chili peppers,0.8
+fennel,2.9
+sweet corn white,2.4
+celeriac raw,2.3
+hubbard squash raw,2.3
+brussels sprouts cooked,0.5
+carrots cooked,0.3
+lambs quarters raw,0.08
+lotus root cooked,0.1
+split peas raw,48.4
+scots kale cooked,2.5
+corn cooked,3.5
+radish raw,0.042
+stinging nettles,2.4
+baby carrots,0.031
+sweet yellow peppers,1.9
+taro leaves raw,1.4
+corn raw,4.7
+roselle,0.5
+drumstick leaves raw,2
+scallop squash raw,1.6
+chicory roots,1.3
+brussels sprouts raw,0.6
+kale cooked,3.5
+pupusas con frijoles,7
+mustard cabbage,1.4
+gourd raw,1.1
+butternut squash cooked,1.8
+burdock root cooked,3.5
+cassava,2.8
+peas carrots cooked,4.9
+romaine lettuce,0.6
+yam raw,2.3
+chowchow pickles,3.7
+prairie turnips raw,0.3
+savoy cabbage raw,1.4
+celery raw,0.3
+celeriac cooked,1.5
+mustard spinach raw,3.3
+zucchini raw,3.1
+okra cooked,3
+white icicle radish,1.1
+orange tomato,1.3
+pumpkin leaves raw,1.2
+spaghetti squash cooked,1
+white corn cooked,3.4
+artichoke cooked,3.5
+avocado,5.4
+string beans wellsley farms,0.3
+lambs quarters cooked,5.8
+peas cooked,8.6
+beets cooked,0.8
+shallots dried,0.1
+green lettuce,2
+kohlrabi cooked,3
+kanpyo dried,4.6
+prairie turnips boiled,0.2
+broccoli raab cooked,3.3
+summer squash cooked,2.7
+taro cooked,0.7
+spring onion scallions,0.4
+hubbard squash cooked,2.8
+jalapeno pepper,0.1
+new zealand spinach cooked,2.3
+sesbania flower raw,0.012
+spirulina dried,4
+chinese cabbage pe tsai cooked,1.8
+zucchini cooked,2.1
+green olives pickled,0.073
+lotus root raw,3
+grape leaves,0.8
+dill pickled cucumber,0.9
+skunk cabbage,1.5
+banana pepper,0.5
+oriental radish raw,2
+purslane cooked,1.7
+rhubarb raw,0.5
+swamp cabbage,2
+mung bean sprouts raw,0.6
+onion cooked,0.2
+swiss chard raw,0.6
+peas raw,7.9
+cabbage cooked,1.9
+taro leaves cooked,3.9
+leeks cooked,1
+split peas cooked,16.3
+sweet corn yellow,4.1
+asparagus raw,0.3
+collard cooked,5.1
+swiss chard cooked,3.3
+nopales cooked,2
+tahitian taro cooked,5.7
+chinese cabbage pak choi raw,1.1
+green chili pepper,0.9
+mountain yam raw,1.8
+parsnips cooked,2.1
+tomato stewed,2.4
+sweet green peppers cooked,0.7
+white corn raw,5.3
+rutabaga raw,8.3
+jalapeno peppers canned,1.3
+pumpkin canned,2.7
+peas onions canned,3.9
+sweet mashed potato canned,5
+hominy canned,2.4
+tomato puree canned,4.1
+dried tomatoes canned in oil,0.2
+mixed vegetables canned,3.5
+straw mushrooms canned,0.2
+capers canned,0.2
+red peppers canned,0.7
+carrots canned,2.6
+tomatoes in tomato juice canned,1.9
+asparagus canned,7.4
+sweet red peppers canned,1.1
+onions canned,0.5
+turnip greens canned,2
+hearts of palm,0.8
+spinach canned,4.9
+sweet potato canned,6.3
+corn canned,1.6
+peas carrots canned,5.5
+crookneck squash canned,1.3
+tomatoes canned,4
+pimento canned,2.1
+sweet green peppers canned,1.1
+peas canned,3.5
+chili peppers canned,1
+green peppers canned,0.7
+grape leaves canned,1.2
+sauerkraut canned,1.3
+beets canned,2
+stewed tomatoes canned,2.3
+tomato paste canned,11.3
+bacon ranch salad mcdonalds,28.1
+caesar salad with grilled chicken mcdonalds,29.1
+caesar salad mcdonalds,6.8
+vegetable salad,1.7
+vegetable salad with chicken,11.6
+potato salad,6.7
+taco salad taco bell,35.7
+iceberg lettuce,0.5
+cornsalad,1.1
+potato salad with egg,4.9
+side salad mcdonalds,0.9
+caesar salad with crispy chicken mcdonalds,25.7
+grape apple salad with walnuts,3.5
+vegetable salad with cheese egg,5.8
+celtuce,0.071
+arugula,0.5
+vegetable salad with shrimp,9.7
+coleslaw,1.8
+shiitake mushrooms cooked,0.3
+shiitake mushrooms raw,0.4
+crimini mushrooms,0.2
+mushrooms raw,2.2
+portabella mushrooms grilled,4
+maitake mushrooms,0.016
+shiitake mushrooms dried,0.3
+chanterelle mushrooms,0.033
+cloud ear fungus dried,2.6
+mushrooms cooked,3.4
+pepeao dried,1.2
+truffles,0.7
+jews ear,0.5
+enoki mushrooms,0.062
+morel mushrooms,0.4
+portabella mushrooms raw,1.8
+oyster mushroom,0.5
